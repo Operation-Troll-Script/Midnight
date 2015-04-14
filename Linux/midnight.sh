@@ -9,5 +9,8 @@
 #		- Open 50 Webpages of Tastyblacks.com
 #######################################
 
-echo "Hello World";
-
+for ((i=1;i<=100;i++))
+do
+ echo "Hello World";
+ xdg-open http://something.com
+done
