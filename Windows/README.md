@@ -4,12 +4,12 @@ Midnight is a friendly troll script used to change settings in Linux and Windows
 
 USE AT YOUR OWN RISK
 
-#How to Use
+###How to Use
 
 The batch script is really simple right now, you load it on your buddies computer, and double click!
 
 
-#Configuration
+###Configuration
 
 1. Open Webpages (change the X value)
 	(X,-,-) - Changes the starting loop in the FOR Loop
