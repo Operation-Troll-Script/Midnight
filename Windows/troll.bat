@@ -7,7 +7,7 @@
 :: PLEASE READ DOCS FOR HOW TO CHANGE THE VALUES, Thank you
 @echo off
 
-:: Opens 50 Pages of (http://www.tastyblacks.com) 
+:: Opens 50 Pages of (http://www.google.com) 
 FOR /L %%A IN (1,1,50) DO (
-  start "" http://www.tastyblacks.com
+  start "" http://www.google.com ::A more appropriate link
 )
