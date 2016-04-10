@@ -11,7 +11,7 @@
 
 for ((i=1;i<=100;i++))
 do
- xdg-open http://www.tastyblacks.com
+ xdg-open google.ca  #changed it to a more appropriate website
 done
 
 echo You Have been trolled
